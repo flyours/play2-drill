@@ -1,0 +1,9 @@
+2016-04-20 13:23:32,903 [INFO] from play.core.server.NettyServer in pool-4-thread-3 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-04-20 13:23:40,286 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-04-20T05:23:40.278Z.
+2016-04-20 13:23:40,558 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-04-20 13:29:06,198 [INFO] from application in application-akka.actor.default-dispatcher-7 - ApplicationTimer demo: Stopping application at 2016-04-20T05:29:06.198Z after 326s.
+2016-04-20 13:29:06,322 [INFO] from application in application-akka.actor.default-dispatcher-7 - ApplicationTimer demo: Starting application at 2016-04-20T05:29:06.322Z.
+2016-04-20 13:29:06,430 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-7 - Application started (Dev)
+2016-04-20 14:42:42,284 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Stopping application at 2016-04-20T06:42:42.282Z after 4416s.
+2016-04-20 14:42:42,408 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Starting application at 2016-04-20T06:42:42.407Z.
+2016-04-20 14:42:42,515 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
