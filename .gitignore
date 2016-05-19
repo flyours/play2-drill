@@ -1,5 +1,9 @@
 target
 *.class
+#log
+logs
+.log
+*.log
 
 #idea
 *.iml
